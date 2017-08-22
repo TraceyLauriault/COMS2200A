@@ -10,7 +10,7 @@ OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
 
 - [ ] Make an [OpenStreetMap account](https://www.openstreetmap.org/user/new).
 - [ ] Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
-
+- [ ] Learn more how to use [OSM iD editor](http://learnosm.org/en/beginner/id-editor/)
 ![image](https://user-images.githubusercontent.com/550895/28646997-8a09cc44-7232-11e7-93b5-816bb3134c13.png)
 
 ### Mapillary
@@ -23,6 +23,24 @@ Mapillary is a crowdsourced streetview platform which allows anyone to add & see
 - [ ] Upload GPS photos using Mapillary's web platform.
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
+
+### Turbo Overpass
+
+Turbo Overpass allows you to easily query OSM features based on specific metadata.
+
+- [ ] Add a `mapillary` tag to an OSM feature using the appropriate Mapillary ID
+- [ ] Generate an Overpass Query using the Wizard (`mapillary=*`)
+
+![image](https://user-images.githubusercontent.com/550895/29582393-8b14044c-874a-11e7-96dd-a47704605521.png)
+
+### Turbo Overpass - Example
+
+Here's an example of an OC Transpo bus station which captures OSM features (bus stop, bench, garbage bin, newspaper stand) and tagging those featuers to a Mapillary ID.
+
+- [ ] Open the following query: http://overpass-turbo.eu/s/rbf
+- [ ] Click on Mapillary ID to open the Mapillary photo which the feature is referencing to.
+
+![image](https://user-images.githubusercontent.com/550895/29582353-64524f4e-874a-11e7-93cb-16325fe7bc67.png)
 
 ## Project
 
