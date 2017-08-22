@@ -45,13 +45,13 @@ Here's an example of an OC Transpo bus station which captures OSM features (bus 
 ## Deliverables
 
 - Provide account credentials:
-  - [ ] OpenStreetMap username (ex: [DenisCarriere](http://www.openstreetmap.org/user/DenisCarriere)
-    - [ ] Add information to your profile
+  - [ ] OpenStreetMap username (ex: [DenisCarriere](http://www.openstreetmap.org/user/DenisCarriere))
+    - [ ] Add information to your OSM profile
   - [ ] Mapillary username (ex: [deniscarriere](https://www.mapillary.com/app/user/deniscarriere))
 - Add a minimum of 25 photos to Mapillary & provide Mapillary IDs (ex: [`aMIdhFd4S2QYjx9aBqgK0w`](https://www.mapillary.com/map/im/aMIdhFd4S2QYjx9aBqgK0w))
 - Add a minimum of 25 OSM features & provide OSM IDs (ex: [4413431972}(https://www.openstreetmap.org/node/4413431972))
 - Provide short written description of the OSM features you decided to added and references to the OSM wiki page
-  - **Example**: If you tagged benches, explain which OSM tags was used and the OSM wiki reference [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity:bench)
+  - **Example**: If you tagged benches, explain which OSM tags was used and the OSM wiki reference [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity:bench)
 - Tag 5 OSM features with the most appropriate Mapillary photo IDs.
 - Provide Turbo Overpass query link which shows those 5 features (ex: http://overpass-turbo.eu/s/rbf)
 
