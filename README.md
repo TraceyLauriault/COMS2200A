@@ -20,7 +20,7 @@ Download the Mapillary App on one of your smart devices:
 
 > https://help.mapillary.com/hc/en-us/categories/115000235529-Mapillary-apps
 
-**Note:** Login using Facebook or Gmail, this application does require access to some personal information, like your name and image, from a Facebook or Gmail account. In addition, it asks to allow access to your camera and location. 
+**Note:** Login using Facebook or Gmail, this application does require access to some personal information, like your name and image, from a Facebook or Gmail account. In addition, it asks to allow access to your camera and location.
 
 ![image](https://user-images.githubusercontent.com/550895/30525484-399b2ba0-9bd5-11e7-88f0-3ade8a4f4618.png)
 
@@ -44,15 +44,32 @@ Get an OpenStreetMap Account:
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
-- [ ] Take some photos with your Mapillary mobile application.
+Selection Option A or B:
+
+- [ ] A. Take some photos using the Mapillary mobile application.
+- [ ] B. Upload GPS photos to Mapillary's web platform.
 
 **Note**: Your mobile device will need to have a good GPS signal to capture photos, enabling your mobile internet will help increase your GPS signal.
 
 ![image](https://cdn.cultofmac.com/wp-content/uploads/2015/12/mapillary003.jpg)
 
-- [ ] Upload GPS photos using Mapillary's web platform.
+For those who would only own a GPS enabled Camera, you can also upload photos directly to Mapillary web platform using their upload page.
 
-For those who would only own a GPS enabled Camera, you can also upload photos directly to Mapillary using their upload page.
+![image](https://user-images.githubusercontent.com/550895/30525618-fa9b98b0-9bd7-11e7-82ba-e84a2d121ff0.png)
+
+![image](https://user-images.githubusercontent.com/550895/30525639-62d420c8-9bd8-11e7-8d62-aed07b6d1dbd.png)
+
+After uploading photos to Mapillary, it will take at least 24 hours for the photos to be readily available to preview on the online platform.
+
+You should receiving an email from Mapillary stating your upload is now published.
+
+![image](https://user-images.githubusercontent.com/550895/30525677-0891a8e6-9bd9-11e7-9074-e8e05ff1ed6c.png)
+
+Once your uploads are published, you can select your profile on the right hand side and preview each of your photo sequences (image tracks).
+
+![image](https://user-images.githubusercontent.com/550895/30525686-431f7bd2-9bd9-11e7-9fbf-b9300564e367.png)
+
+While navigating to each of your photos, you can expand them to be fullscreen by clicking on the topright of the map which is located on the bottom left.
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
 
