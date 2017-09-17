@@ -44,10 +44,15 @@ Get an OpenStreetMap Account:
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
-- [ ] Create a [Mapillary account](https://www.mapillary.com).
-- [ ] Download the [iOS](https://itunes.apple.com/us/app/mapillary-street-level-photos/id757286802?mt=8)/[Android](https://play.google.com/store/apps/details?id=app.mapillary&hl=en) application.
 - [ ] Take some photos with your Mapillary mobile application.
+
+**Note**: Your mobile device will need to have a good GPS signal to capture photos, enabling your mobile internet will help increase your GPS signal.
+
+[image](https://cdn.cultofmac.com/wp-content/uploads/2015/12/mapillary003.jpg)
+
 - [ ] Upload GPS photos using Mapillary's web platform.
+
+For those who would only own a GPS enabled Camera, you can also upload photos directly to Mapillary using their upload page.
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
 
