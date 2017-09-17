@@ -76,6 +76,12 @@ While navigating to each of your photos, you can expand them to be fullscreen by
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
 
+### Copying Photo Keys
+
+Using the web platform of Mapillary, expand the Image details by click on the 3 dots at the bottom right and expanding the Advanced Options. You will find both an **Imagey Key** & **Sequence Key**, these keys will be needed to submit to OpenStreetMap and for your assignment.
+
+![image](https://user-images.githubusercontent.com/550895/30525820-453ef692-9bdc-11e7-9c36-e9b663887d75.png)
+
 ### OpenStreetMap
 
 OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
