@@ -72,10 +72,6 @@ Once your uploads are published, you can select your profile on the right hand s
 
 ![image](https://user-images.githubusercontent.com/550895/30525686-431f7bd2-9bd9-11e7-9fbf-b9300564e367.png)
 
-While navigating to each of your photos, you can expand them to be fullscreen by clicking on the topright of the map which is located on the bottom left.
-
-![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
-
 ### Copying Photo Keys
 
 Using the web platform of Mapillary, expand the Image details by click on the 3 dots at the bottom right and expanding the Advanced Options. You will find both an **Imagey Key** & **Sequence Key**, these keys will be needed to submit to OpenStreetMap and for your assignment.
