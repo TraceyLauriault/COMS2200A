@@ -12,6 +12,8 @@
 
 ## 1. Accounts
 
+**Note**: When creating the following accounts below, you might want to check your junk mail for the e-mail confirmation response.
+
 ### [Mapillary](https://mapillary.com)
 
 Download the Mapillary App on one of your smart devices:
