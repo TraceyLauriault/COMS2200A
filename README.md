@@ -40,18 +40,7 @@ Get an OpenStreetMap Account:
 
 ![image](https://user-images.githubusercontent.com/550895/30525504-c2a50a2e-9bd5-11e7-90dd-29749ceb94d3.png)
 
-## To Learn
-
-### OpenStreetMap
-
-OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
-
-- [ ] Make an [OpenStreetMap account](https://www.openstreetmap.org/user/new).
-- [ ] Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
-- [ ] Learn more how to use [OSM iD editor](http://learnosm.org/en/beginner/id-editor/)
-![image](https://user-images.githubusercontent.com/550895/28646997-8a09cc44-7232-11e7-93b5-816bb3134c13.png)
-
-### Mapillary
+## 2. Add photos to Mapillary
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
@@ -61,6 +50,15 @@ Mapillary is a crowdsourced streetview platform which allows anyone to add & see
 - [ ] Upload GPS photos using Mapillary's web platform.
 
 ![image](https://user-images.githubusercontent.com/550895/28599439-8fea60c0-7178-11e7-8415-a7bf349d2f61.png)
+
+### OpenStreetMap
+
+OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
+
+- [ ] Make an [OpenStreetMap account](https://www.openstreetmap.org/user/new).
+- [ ] Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
+- [ ] Learn more how to use [OSM iD editor](http://learnosm.org/en/beginner/id-editor/)
+![image](https://user-images.githubusercontent.com/550895/28646997-8a09cc44-7232-11e7-93b5-816bb3134c13.png)
 
 ### Turbo Overpass
 
