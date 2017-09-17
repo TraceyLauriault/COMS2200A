@@ -9,6 +9,8 @@ Download the Mapillary App on one of your smart devices:
 
 > https://help.mapillary.com/hc/en-us/categories/115000235529-Mapillary-apps
 
+**Note:** Login using Facebook or Gmail, this application does require access to some personal information, like your name and image, from a Facebook or Gmail account. In addition, it asks to allow access to your camera and location. 
+
 ### [GitHub](https://github.com)
 
 Get a GitHub Account:
