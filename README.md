@@ -54,7 +54,7 @@ Select one of the upload methods (Option A or B).
 
 Once your photos have been captured using the Mapillary app you will be able to upload them once you've connected to a WiFi network.
 
-#### Option B: Upload GPS photos to Mapillary's web platform.
+### Option B: Upload GPS photos to Mapillary's web platform.
 
 For those who would only own a GPS enabled Camera, you can also upload photos directly to Mapillary web platform using their upload page.
 
