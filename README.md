@@ -1,7 +1,16 @@
 # COMS2200A Big Data Society
 ## Crowdsourcing, Carleton University
 
-## Accounts
+## Overview
+
+- 1. Create Accounts
+- 2. Research OSM Wiki
+- 3. Add photos to Mapillary
+- 4. Edit OpenStreetMap features
+- 5. Add Mapillary IDs to OpenStreetMap features
+- 6. Create a report of which OSM tags was used in your edits
+
+## 1. Accounts
 
 ### [Mapillary](https://mapillary.com)
 
