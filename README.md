@@ -5,19 +5,19 @@
 
 ### [Mapillary](https://mapillary.com)
 
-Download the **[Mapillary](https://mapillary.com)** App on one of your smart devices:
+Download the Mapillary App on one of your smart devices:
 
 > https://help.mapillary.com/hc/en-us/categories/115000235529-Mapillary-apps
 
 ### [GitHub](https://github.com)
 
-Get a **[GitHub](https://github.com)** Account:
+Get a GitHub Account:
 
 > https://github.com/join
 
 ### [OpenStreetMap](https://www.openstreetmap.org)
 
-Get an **[OpenStreetMap](https://www.openstreetmap.org)** Account:
+Get an OpenStreetMap Account:
 
 > https://www.openstreetmap.org/user/new
 
