@@ -20,17 +20,23 @@ Download the Mapillary App on one of your smart devices:
 
 **Note:** Login using Facebook or Gmail, this application does require access to some personal information, like your name and image, from a Facebook or Gmail account. In addition, it asks to allow access to your camera and location. 
 
+![image](https://user-images.githubusercontent.com/550895/30525484-399b2ba0-9bd5-11e7-88f0-3ade8a4f4618.png)
+
 ### [GitHub](https://github.com)
 
-Get a GitHub Account:
+Create a GitHub Account:
 
 > https://github.com/join
+
+![image](https://user-images.githubusercontent.com/550895/30525495-96828c82-9bd5-11e7-8415-2de1a4780717.png)
 
 ### [OpenStreetMap](https://www.openstreetmap.org)
 
 Get an OpenStreetMap Account:
 
 > https://www.openstreetmap.org/user/new
+
+![image](https://user-images.githubusercontent.com/550895/30525504-c2a50a2e-9bd5-11e7-90dd-29749ceb94d3.png)
 
 ## To Learn
 
