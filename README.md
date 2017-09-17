@@ -64,7 +64,7 @@ For those who would only own a GPS enabled Camera, you can also upload photos di
 
 After uploading photos to Mapillary, it will take at least 24 hours for the photos to be readily available to preview on the online platform.
 
-You should receiving an email from Mapillary stating your upload is now published.
+You should receive an email from Mapillary stating your upload is now published.
 
 ![image](https://user-images.githubusercontent.com/550895/30525677-0891a8e6-9bd9-11e7-9074-e8e05ff1ed6c.png)
 
