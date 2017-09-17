@@ -3,11 +3,22 @@
 
 ## Accounts
 
-- [ ] Download the **[Mapillary](https://mapillary.com)** App on one of your smart devices:
+### [Mapillary](https://mapillary.com)
+
+Download the **[Mapillary](https://mapillary.com)** App on one of your smart devices:
+
 > https://help.mapillary.com/hc/en-us/categories/115000235529-Mapillary-apps
-- [ ] Get a **[GitHub](https://github.com)** Account:
+
+### [GitHub](https://github.com)
+
+Get a **[GitHub](https://github.com)** Account:
+
 > https://github.com/join
-- [ ] Get an **[OpenStreetMap](https://www.openstreetmap.org)** Account:
+
+### [OpenStreetMap](https://www.openstreetmap.org)
+
+Get an **[OpenStreetMap](https://www.openstreetmap.org)** Account:
+
 > https://www.openstreetmap.org/user/new
 
 ## To Learn
