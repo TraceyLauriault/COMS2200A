@@ -9,6 +9,16 @@
 4. [Uploading & Tagging photos in OSM](#upload)
 5. [Reflection](#reflection)
 
+# Goal
+
+For this assignment the goal would be to add Amenity based features to OpenStreetMap using Mapillary photos. While collecting your photos around the Carleton University campus, here are some of the amenity features that would be worth collecting:
+
+- Street Lamps
+- Benches
+- Drinking Fountains
+- Waste Baskets (Recyling or Waste)
+- Historical Monuments
+
 # Accounts
 
 ## 1. 3 Accounts
@@ -139,7 +149,7 @@ Once you've added your OSM Feature with the appropriate Mapillary Key you are re
 2. Include a `Changeset Comment` which describe which type of edit you've made (ex: Added Street Lamp Post).
 3. Include both **Sources** & **Hashes**
   - source=`Mapillary`
-  - hashes=`#COMS2200A`
+  - hashes=`#COMS2200A` (used for reference)
 4. Upload changes to OSM.
 
 ![image](https://user-images.githubusercontent.com/550895/30526225-fa8b0bf0-9be4-11e7-8bc6-f0fead168bc5.png)
@@ -152,4 +162,4 @@ Provide short written description of the OSM features you decided to added and r
 
 ### Example
 
-If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity:bench).
+If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench).
