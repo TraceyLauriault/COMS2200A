@@ -166,9 +166,11 @@ Once you've added your OSM Feature with the appropriate `Mapillary Image Key` yo
 
 # 5. Reflection
 
-Provide short written description of the OSM features you decided to added and references to the OSM wiki page
+Provide a 2 page reflection document to CULearn. In this document you considered the 3 platforms, the process of capturing data all the way to the posting of your final photo in OSM, you will discuss challenge, insights, things you found enjoyable, provide suggestions on how to improve the process, and etc.. You will express what you learned.  End your reflection by discussing this form of databased citizenship.
 
 
 ### Example
 
 If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity=bench](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench).
+
+
