@@ -8,7 +8,7 @@
 2. [Add 20 Mapillary Image keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading to OpenStreetMap](#upload)
-5. [Reflection](#reflection)
+5. [Reflection](#5-reflection)
 
 # Goal
 
