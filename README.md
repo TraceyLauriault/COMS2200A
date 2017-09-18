@@ -110,6 +110,20 @@ Using the web platform of Mapillary, expand the Image details by clicking on the
 
 Once your Mapillary photos have been uploaded, you are ready to map your first feature in OpenStreetMap using your street level photos you've collected around your neighbourhood.
 
+## Research OSM Tag
+
+The main resource to find the appropriate OpenStreetMap tag will be in the [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Main_Page). An alternate way to find how to tag features in OSM would be to use Google.
+
+Enter the following in the search `"OSM bench"` in Google and typically the OSM Wiki reference will be found as the first result.
+
+![image](https://user-images.githubusercontent.com/550895/30551646-1b83717e-9c69-11e7-8834-dc61138a16ac.png)
+
+Inside the OSM Wiki you will find a description/overview/tagging schema, this will help understand the metadata tags used to map an OpenStreetMap feature.
+
+![image](https://user-images.githubusercontent.com/550895/30551684-4380affc-9c69-11e7-89fa-c016c7deec56.png)
+
+## Map OSM Feature
+
 Using the iD Editor, zoom in to the location of where your Mapillary photos were taken.
 
 [Click here to Zoom in to Carleton University](https://www.openstreetmap.org/#map=16/45.3846/-75.6962)
