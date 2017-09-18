@@ -126,7 +126,7 @@ Now you are able to see both OpenStreetMap features & Mapillary photos in the iD
 
 ### Example - How to Link Mapillary Image to OpenStreetMap
 
-For this example we will be adding a street lamp post to OpenStreetMap and also include the Mapillary Image Key to the lamp post.
+For this example we will be:
 
 1. Adding Street Lamp Post to OpenStreetMap.
 2. Linking Mapillary Image Key to OSM street lamp post ([Mapillary Image Key:  **baanWFHhhgFXzxwbBoOyPw**](https://www.mapillary.com/app/?pKey=baanWFHhhgFXzxwbBoOyPw&focus=photo))
