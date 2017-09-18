@@ -1,10 +1,11 @@
 # COMS2200A Big Data Society
-## Crowdsourcing, Carleton University
 
-## Overview
+> Crowdsourcing, Carleton University
 
-1. [3 accounts](#accounts)
-2. [20 Mapillary Photo keys](#mapillary)
+# Overview
+
+1. [Create 3 accounts](#accounts)
+2. [Add 20 Mapillary Photo keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading & Tagging photos in OSM](#upload)
 5. [Reflection](#reflection)
@@ -21,7 +22,7 @@ For this assignment the goal would be to add Amenity based features to OpenStree
 
 # Accounts
 
-## 1. 3 Accounts
+## 1. Create 3 Accounts
 
 **Note**: When creating the following accounts below, you might want to check your junk mail for the e-mail confirmation response.
 
@@ -55,7 +56,7 @@ Get an OpenStreetMap Account:
 
 # Mapillary
 
-## 2. 20 Mapillary Photo keys
+## 2. Add 20 Mapillary Photo keys
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
