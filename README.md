@@ -5,7 +5,7 @@
 # Overview
 
 1. [Create 3 accounts](#accounts)
-2. [Add 20 Mapillary Photo keys](#mapillary)
+2. [Add 20 Mapillary Image keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading & Tagging photos in OSM](#upload)
 5. [Reflection](#reflection)
@@ -56,7 +56,7 @@ Get an OpenStreetMap Account:
 
 # Mapillary
 
-## 2. Add 20 Mapillary Photo keys
+## 2. Add 20 Mapillary Image keys
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
@@ -88,9 +88,9 @@ Once your uploads are published, you can select your profile on the right hand s
 
 ![image](https://user-images.githubusercontent.com/550895/30525686-431f7bd2-9bd9-11e7-9fbf-b9300564e367.png)
 
-### Copying Photo Keys
+### Copying Image Keys
 
-Using the web platform of Mapillary, expand the Image details by clicking on the 3 dots at the bottom right and expand the Advanced Options. You will find both an **Imagey Key** & **Sequence Key**, you will need these keys to submit to OpenStreetMap and for your assignment.
+Using the web platform of Mapillary, expand the Image details by clicking on the 3 dots at the bottom right and expand the Advanced Options. Here you will find both an **Imagey Key** & **Sequence Key**, you will only need the **Image Key** to submit to OpenStreetMap and for your assignment.
 
 - **Image Key**: This key is the unique identifer of the individual image (this will be the key used in your assignment & tagging into OpenStreetMap)
 - **Sequence Key**: This key identifies the entire sequence of the entire photo collection.
