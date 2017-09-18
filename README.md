@@ -14,11 +14,11 @@
 
 For this assignment the goal would be to add Amenity based features to OpenStreetMap using Mapillary photos. While collecting your photos around the Carleton University campus, here are some of the amenity features that would be worth collecting:
 
-- [Street Lamps](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp)
-- Benches
-- Drinking Fountains
-- [Waste Baskets](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwaste_basket) ([Recyling containers](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Drecycling))
-- Historical Monuments
+- [Street Lamps](http://wiki.openstreetmap.org/wiki/Tag:highway=street_lamp)
+- [Benches](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench)
+- [Drinking Fountains](http://wiki.openstreetmap.org/wiki/Tag:amenity=drinking_water)
+- [Waste Baskets](http://wiki.openstreetmap.org/wiki/Tag:amenity=waste_basket) ([Recyling containers](http://wiki.openstreetmap.org/wiki/Tag:amenity=recycling))
+- [Historical Monuments](http://wiki.openstreetmap.org/wiki/Tag:historic=monument)
 
 # Accounts
 
