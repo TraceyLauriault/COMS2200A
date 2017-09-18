@@ -3,11 +3,11 @@
 
 ## Overview
 
-1. [3 accounts](#Accounts)
-2. [20 Mapillary Photo keys](#Mapillary)
-3. [OSM Photo Metadata Tags](#OpenStreetMap)
-4. [Uploading & Tagging photos in OSM](#Upload)
-5. [Reflection](#Reflection)
+1. [3 accounts](#accounts)
+2. [20 Mapillary Photo keys](#mapillary)
+3. [OSM Photo Metadata Tags](#openstreetmap)
+4. [Uploading & Tagging photos in OSM](#upload)
+5. [Reflection](#reflection)
 
 # Accounts
 
