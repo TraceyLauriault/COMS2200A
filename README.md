@@ -124,9 +124,9 @@ Once you've zoomed in to the area you want to map, we will enable the Mapillary 
 Now you are able to see both OpenStreetMap features & Mapillary photos in the iD Editor. You can preview the Mapillary photos by clicking one of the yellow dot on the map.
 
 
-### Example
+### Example - How to Link Mapillary Image to OpenStreetMap
 
-For an example, we will be adding this lamp post to OpenStreetMap and also including the Mapillary tag to the feature.
+For this example we will be adding a lamp post to OpenStreetMap and also including the Mapillary Image Key to the feature.
 
 [Mapillary Image Key:  **baanWFHhhgFXzxwbBoOyPw**](https://www.mapillary.com/app/?pKey=baanWFHhhgFXzxwbBoOyPw&focus=photo)
 
