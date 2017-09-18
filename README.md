@@ -7,7 +7,7 @@
 1. [Create 3 accounts](#accounts)
 2. [Add 20 Mapillary Image keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
-4. [Uploading & Tagging photos in OSM](#upload)
+4. [Uploading to OpenStreetMap](#upload)
 5. [Reflection](#reflection)
 
 # Goal
@@ -135,7 +135,8 @@ For this example we will be:
 
 These are the steps to add a feature in OSM using the iD editor:
 
-1. Select the **Point** geometry shape and click on the map where the Lamp Post would be located based on the Mapillary photo & Satelitte imagery.
+1. Select the **Point** geometry shape located in the top menu.
+2. Click on the map where the Lamp Post would be located based on the Mapillary photo & Satelitte imagery.
 2. Define the type of point, search for `Street Lamp` in the left hand side. This will add the [`highway=street_lamp`](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp) tag to your OpenStreetMap point feature.
 
 ![image](https://user-images.githubusercontent.com/550895/30526169-1c1aca4a-9be4-11e7-9a9c-b388480ca7a0.png)
@@ -146,9 +147,9 @@ Once your OSM feature is created and tagged as a [`highway=street_lamp`](http://
 
 # Upload
 
-## 4. Uploading & Tagging photos in OSM
+## 4. Uploading to OpenStreetMap
 
-Once you've added your OSM Feature with the appropriate Mapillary Key you are ready to upload these changes to the live OpenStreetMap database.
+Once you've added your OSM Feature with the appropriate `Mapillary Image Key` you are ready to upload these changes to the live OpenStreetMap database.
 
 1. Click on the Save button in the top menu, there will be a number next to it which indicates how many features you will be adding/modifying.
 2. Include a `Changeset Comment` which describe which type of edit you've made (ex: Added Street Lamp Post).
@@ -167,4 +168,4 @@ Provide short written description of the OSM features you decided to added and r
 
 ### Example
 
-If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench).
+If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity=bench](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench).
