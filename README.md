@@ -3,18 +3,19 @@
 
 ## Overview
 
-- 1. Create Accounts
-- 2. Add photos to Mapillary
-- 3. Research OSM Wiki
-- 4. Edit OpenStreetMap features
-- 5. Add Mapillary IDs to OpenStreetMap features
-- 6. Create a report of which OSM tags was used in your edits
+1. [3 accounts](#Accounts)
+2. [20 Mapillary Photo keys](#Mapillary)
+3. [OSM Photo Metadata Tags](#OpenStreetMap)
+4. [Uploading & Tagging photos in OSM](#Upload)
+5. [Reflection](#Reflection)
 
-## 1. Accounts
+# Accounts
+
+## 1. 3 Accounts
 
 **Note**: When creating the following accounts below, you might want to check your junk mail for the e-mail confirmation response.
 
-### [Mapillary](https://mapillary.com)
+### [Mapillary App](https://mapillary.com)
 
 Download the Mapillary App on one of your smart devices:
 
@@ -26,11 +27,13 @@ Download the Mapillary App on one of your smart devices:
 
 ### [GitHub](https://github.com)
 
-Create a GitHub Account:
+Creating a GitHub Account will allow you to submit issues related to the assignment.
 
 > https://github.com/join
 
 ![image](https://user-images.githubusercontent.com/550895/30525495-96828c82-9bd5-11e7-8415-2de1a4780717.png)
+
+![image](https://user-images.githubusercontent.com/550895/30525949-6d051906-9bdf-11e7-9406-a36b5722bbb9.png)
 
 ### [OpenStreetMap](https://www.openstreetmap.org)
 
@@ -40,7 +43,9 @@ Get an OpenStreetMap Account:
 
 ![image](https://user-images.githubusercontent.com/550895/30525504-c2a50a2e-9bd5-11e7-90dd-29749ceb94d3.png)
 
-## 2. Add photos to Mapillary
+# Mapillary
+
+## 2. 20 Mapillary Photo keys
 
 Mapillary is a crowdsourced streetview platform which allows anyone to add & see their GPS enabled photos.
 
@@ -78,44 +83,70 @@ Using the web platform of Mapillary, expand the Image details by clicking on the
 
 ![image](https://user-images.githubusercontent.com/550895/30525877-df64775a-9bdd-11e7-8c31-734b4a93d29f.png)
 
-### OpenStreetMap
+# OpenStreetMap
+
+## 3. OSM Photo Metadata Tags
 
 OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
 
-- [ ] Make an [OpenStreetMap account](https://www.openstreetmap.org/user/new).
-- [ ] Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
-- [ ] Learn more how to use [OSM iD editor](http://learnosm.org/en/beginner/id-editor/)
+### Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
 
-![image](https://user-images.githubusercontent.com/550895/28646997-8a09cc44-7232-11e7-93b5-816bb3134c13.png)
+Once your Mapillary photos have been uploaded, you are ready to map your first feature in OpenStreetMap using your street level photos you've collected around your neighbourhood.
 
-### Turbo Overpass
+Using the iD Editor, zoom in to the location of where your Mapillary photos were taken.
 
-Turbo Overpass allows you to easily query OSM features based on specific metadata.
+[Click here to Zoom in to Carleton University](https://www.openstreetmap.org/#map=16/45.3846/-75.6962)
 
-- [ ] Add a `mapillary` tag to an OSM feature using the appropriate Mapillary ID
-- [ ] Generate an Overpass Query using the Wizard (`mapillary=*`)
+![image](https://user-images.githubusercontent.com/550895/30526012-a89f6966-9be0-11e7-8bad-458a763f02f3.png)
 
-![image](https://user-images.githubusercontent.com/550895/29582393-8b14044c-874a-11e7-96dd-a47704605521.png)
+Click on the Edit button on the top left and the map will change to a satelitte view with an edit menu on the left hand side.
 
-### Turbo Overpass - Example
+![image](https://user-images.githubusercontent.com/550895/30526013-ccba1d6e-9be0-11e7-9fd2-6b0f5472186f.png)
 
-Here's an example of an OC Transpo bus station which captures OSM features (bus stop, bench, garbage bin, newspaper stand) and tagging those featuers to a Mapillary ID.
+Once you've zoomed in to the area you want to map, we will enable the Mapillary previews by click on the **Map Data (F key)** on the right hand side and toggling the **Photo Overlay Mapillary** checkbox.
 
-- [ ] Open the following query: http://overpass-turbo.eu/s/rbf
-- [ ] Click on Mapillary ID to open the Mapillary photo which the feature is referencing to.
+![image](https://user-images.githubusercontent.com/550895/30526044-64a6b204-9be1-11e7-82ca-068d73f40e76.png)
 
-![image](https://user-images.githubusercontent.com/550895/29582353-64524f4e-874a-11e7-93cb-16325fe7bc67.png)
+Now you are able to see both OpenStreetMap features & Mapillary photos in the iD Editor. You can preview the Mapillary photos by clicking one of the yellow dot on the map.
 
-## Deliverables
 
-- Provide account credentials:
-  - [ ] OpenStreetMap username (ex: [DenisCarriere](http://www.openstreetmap.org/user/DenisCarriere))
-    - [ ] Add information to your OSM profile
-  - [ ] Mapillary username (ex: [deniscarriere](https://www.mapillary.com/app/user/deniscarriere))
-- Add a minimum of 25 photos to Mapillary & provide Mapillary IDs (ex: [`aMIdhFd4S2QYjx9aBqgK0w`](https://www.mapillary.com/map/im/aMIdhFd4S2QYjx9aBqgK0w))
-- Add a minimum of 25 OSM features & provide OSM IDs (ex: [node/4413431972](https://www.openstreetmap.org/node/4413431972))
-- Provide short written description of the OSM features you decided to added and references to the OSM wiki page
-  - **Example**: If you tagged benches, explain which OSM tags was used and the OSM wiki reference [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity:bench)
-- Tag 5 OSM features with the most appropriate Mapillary photo IDs.
-- Provide Turbo Overpass query link which shows those 5 features (ex: http://overpass-turbo.eu/s/rbf)
+### Example
 
+For an example, we will be adding this lamp post to OpenStreetMap and also including the Mapillary tag to the feature.
+
+[Mapillary Photo Key:  **baanWFHhhgFXzxwbBoOyPw**](https://www.mapillary.com/app/?pKey=baanWFHhhgFXzxwbBoOyPw&focus=photo)
+
+![image](https://user-images.githubusercontent.com/550895/30526093-72184000-9be2-11e7-82ce-5e540a2c229d.png)
+
+In the iD Editor we will be adding a feature using the [`highway=street_lamp`](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp) tag. Select the **Point** geometry shape and click on the map where the Lamp Post would be located based on the Mapillary photo & Satelitte imagery. Once you've created a point you will have have to define the type of point, search for `Street Lamp` in the left hand side.
+
+![image](https://user-images.githubusercontent.com/550895/30526169-1c1aca4a-9be4-11e7-9a9c-b388480ca7a0.png)
+
+Once your OSM feature is created and tagged as a `highway=street_lamp` we will now need to add the Mapillary key to the OSM Feature. In the **All tags** section, click on the (+) to expand a new field and add `mapillary=<MAPILLARY KEY>`.
+
+![image](https://user-images.githubusercontent.com/550895/30526123-341e451e-9be3-11e7-808d-1750e4d4eb78.png)
+
+# Upload
+
+## 4. Uploading & Tagging photos in OSM
+
+Once you've added your OSM Feature with the appropriate Mapillary Key you are ready to upload these changes to the live OpenStreetMap database.
+
+1. Click on the Save button in the top menu, there will be a number next to it which indicates how many features you will be adding/modifying.
+2. Include a `Changeset Comment` which describe which type of edit you've made (ex: Added Street Lamp Post).
+3. Include both **Sources** & **Hashes**
+  - source=`Mapillary`
+  - hashes=`#COMS2200A`
+4. Upload changes to OSM.
+
+![image](https://user-images.githubusercontent.com/550895/30526225-fa8b0bf0-9be4-11e7-8bc6-f0fead168bc5.png)
+
+
+# 5. Reflection
+
+Provide short written description of the OSM features you decided to added and references to the OSM wiki page
+
+
+### Example
+
+If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity:bench](http://wiki.openstreetmap.org/wiki/Tag:amenity:bench).
