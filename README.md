@@ -133,7 +133,10 @@ For this example we will be:
 
 ![image](https://user-images.githubusercontent.com/550895/30526093-72184000-9be2-11e7-82ce-5e540a2c229d.png)
 
-In the iD Editor we will be adding a feature using the [`highway=street_lamp`](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp) tag. Select the **Point** geometry shape and click on the map where the Lamp Post would be located based on the Mapillary photo & Satelitte imagery. Once you've created a point you will have have to define the type of point, search for `Street Lamp` in the left hand side.
+These are the steps to add a feature in OSM using the iD editor:
+
+1. Select the **Point** geometry shape and click on the map where the Lamp Post would be located based on the Mapillary photo & Satelitte imagery.
+2. Define the type of point, search for `Street Lamp` in the left hand side. This will add the [`highway=street_lamp`](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp) tag to your OpenStreetMap point feature.
 
 ![image](https://user-images.githubusercontent.com/550895/30526169-1c1aca4a-9be4-11e7-9a9c-b388480ca7a0.png)
 
