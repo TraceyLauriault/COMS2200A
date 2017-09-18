@@ -14,10 +14,10 @@
 
 For this assignment the goal would be to add Amenity based features to OpenStreetMap using Mapillary photos. While collecting your photos around the Carleton University campus, here are some of the amenity features that would be worth collecting:
 
-- Street Lamps
+- [Street Lamps](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp)
 - Benches
 - Drinking Fountains
-- Waste Baskets (Recyling or Waste)
+- [Waste Baskets](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwaste_basket) ([Recyling containers](http://wiki.openstreetmap.org/wiki/Tag:amenity%3Drecycling))
 - Historical Monuments
 
 # Accounts
@@ -101,9 +101,12 @@ Using the web platform of Mapillary, expand the Image details by clicking on the
 
 ## 3. OSM Photo Metadata Tags
 
-OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
+> OSM (OpenStreetMap) is a crowdsourced database of Geographic real-world data.
 
-### Edit your first feature in OSM using [iD Editor](http://www.openstreetmap.org/edit?editor=id#map=16/45.3847/-75.6968).
+## OSM Tutorials
+
+- [TeachOSM.org](http://teachosm.org/en/)
+- [LearnOSM.org](http://learnosm.org/en/)
 
 Once your Mapillary photos have been uploaded, you are ready to map your first feature in OpenStreetMap using your street level photos you've collected around your neighbourhood.
 
