@@ -81,6 +81,9 @@ Once your uploads are published, you can select your profile on the right hand s
 
 Using the web platform of Mapillary, expand the Image details by clicking on the 3 dots at the bottom right and expand the Advanced Options. You will find both an **Imagey Key** & **Sequence Key**, you will need these keys to submit to OpenStreetMap and for your assignment.
 
+- **Image Key**: This key is the unique identifer of the individual image (this will be the key used in your assignment & tagging into OpenStreetMap)
+- **Sequence Key**: This key identifies the entire sequence of the entire photo collection.
+
 ![image](https://user-images.githubusercontent.com/550895/30525877-df64775a-9bdd-11e7-8c31-734b4a93d29f.png)
 
 # OpenStreetMap
@@ -114,7 +117,7 @@ Now you are able to see both OpenStreetMap features & Mapillary photos in the iD
 
 For an example, we will be adding this lamp post to OpenStreetMap and also including the Mapillary tag to the feature.
 
-[Mapillary Photo Key:  **baanWFHhhgFXzxwbBoOyPw**](https://www.mapillary.com/app/?pKey=baanWFHhhgFXzxwbBoOyPw&focus=photo)
+[Mapillary Image Key:  **baanWFHhhgFXzxwbBoOyPw**](https://www.mapillary.com/app/?pKey=baanWFHhhgFXzxwbBoOyPw&focus=photo)
 
 ![image](https://user-images.githubusercontent.com/550895/30526093-72184000-9be2-11e7-82ce-5e540a2c229d.png)
 
