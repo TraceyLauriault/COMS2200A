@@ -125,7 +125,7 @@ In the iD Editor we will be adding a feature using the [`highway=street_lamp`](h
 
 ![image](https://user-images.githubusercontent.com/550895/30526169-1c1aca4a-9be4-11e7-9a9c-b388480ca7a0.png)
 
-Once your OSM feature is created and tagged as a `highway=street_lamp` we will now need to add the Mapillary key to the OSM Feature. In the **All tags** section, click on the (+) to expand a new field and add `mapillary=<MAPILLARY IMAGE KEY>`.
+Once your OSM feature is created and tagged as a [`highway=street_lamp`](http://wiki.openstreetmap.org/wiki/Tag:highway%3Dstreet_lamp) we will now need to add the Mapillary Image Key to the OSM Feature. In the **All tags** section, click on the (+) to expand a new field and add `mapillary=<MAPILLARY IMAGE KEY>`.
 
 ![image](https://user-images.githubusercontent.com/550895/30526123-341e451e-9be3-11e7-808d-1750e4d4eb78.png)
 
