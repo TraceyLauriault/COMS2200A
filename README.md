@@ -46,7 +46,7 @@ Creating a GitHub Account will allow you to submit issues related to the assignm
 
 ![image](https://user-images.githubusercontent.com/550895/30525949-6d051906-9bdf-11e7-9406-a36b5722bbb9.png)
 
-### [OpenStreetMap](https://www.openstreetmap.org)
+### [OpenStreetMap.org](https://www.openstreetmap.org)
 
 Get an OpenStreetMap Account:
 
