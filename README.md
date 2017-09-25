@@ -9,6 +9,7 @@
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading to OpenStreetMap](#upload)
 5. [Reflection](#5-reflection)
+6. [FAQ](#faq)
 
 # Goal
 
@@ -188,3 +189,10 @@ Provide a 2 page reflection document to CULearn. In this document you considered
 If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you've used and reference the OSM wiki article [amenity=bench](http://wiki.openstreetmap.org/wiki/Tag:amenity=bench).
 
 
+# FAQ
+
+### Q. Finding the Keys on a mobile device - Android smart phone
+
+**Answer:** You cannot find the Mapillary Image keys on an Android smart phone, you will need to access the Mapillary Website for that.
+
+[**Copy an Image Keys**](https://github.com/TraceyLauriault/COMS2200A#copying-image-keys) for more info on how to do that.
