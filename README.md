@@ -11,7 +11,7 @@
 5. [Reflection](#5-reflection)
 6. [FAQ](#faq)
 
-## Guides
+## OSM References
 
 - [LearnOSM](learnosm.org)
 - [TeachOSM](teachosm.org)
