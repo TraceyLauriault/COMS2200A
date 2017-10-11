@@ -8,6 +8,7 @@
 2. [Add 20 Mapillary Image keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading to OpenStreetMap](#upload)
+  - [How to Query your OSM edits](#foo)
 5. [Reflection](#5-reflection)
 6. [FAQ](#faq)
 
@@ -177,6 +178,25 @@ Once you've added your OSM Feature with the appropriate `Mapillary Image Key` yo
 4. Upload changes to OSM.
 
 ![image](https://user-images.githubusercontent.com/550895/30526225-fa8b0bf0-9be4-11e7-8bc6-f0fead168bc5.png)
+
+
+# How to Query your OSM edits
+
+With [Overpass Turbo](http://overpass-turbo.eu/), you can query your own OSM edits based on your OSM username.
+
+## Steps
+
+- Go to http://overpass-turbo.eu
+- Zoom into Carleton University
+- Select the Wizard
+- Use the the following query `user:OSM_ACCOUNT` (ex: `user:DenisCarriere`)
+- Run **build and run query**
+- You should see your edits highlighted in blue
+- Click on each feature to see full OSM metadata
+
+<img width="838" alt="screen shot 2017-10-11 at 2 17 03 pm" src="https://user-images.githubusercontent.com/550895/31458751-fda875d6-ae8e-11e7-985d-93885884957b.png">
+
+![image](https://user-images.githubusercontent.com/550895/31458871-54c81ea2-ae8f-11e7-82aa-c11749494ee7.png)
 
 
 # 5. Reflection
