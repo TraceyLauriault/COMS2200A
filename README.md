@@ -2,7 +2,7 @@
 
 > Crowdsourcing, Carleton University
 
-# Overview
+## Overview
 
 1. [Create 3 accounts](#accounts)
 2. [Add 20 Mapillary Image keys](#mapillary)
@@ -11,13 +11,13 @@
 5. [Reflection](#5-reflection)
 6. [FAQ](#faq)
 
-# Guides
+## Guides
 
 - [LearnOSM](learnosm.org)
 - [TeachOSM](teachosm.org)
 - [How to Query your OSM edits](#how-to-query-your-osm-edits)
 
-# Goal
+## Goal
 
 For this assignment the goal would be to add Amenity based features to OpenStreetMap using Mapillary photos. While collecting your photos around the Carleton University campus, here are some of the amenity features that would be worth collecting:
 
