@@ -8,9 +8,14 @@
 2. [Add 20 Mapillary Image keys](#mapillary)
 3. [OSM Photo Metadata Tags](#openstreetmap)
 4. [Uploading to OpenStreetMap](#upload)
-  - [How to Query your OSM edits](#foo)
 5. [Reflection](#5-reflection)
 6. [FAQ](#faq)
+
+# Guides
+
+- [LearnOSM](learnosm.org)
+- [TeachOSM](teachosm.org)
+- [How to Query your OSM edits](#how-to-query-your-osm-edits)
 
 # Goal
 
@@ -180,11 +185,11 @@ Once you've added your OSM Feature with the appropriate `Mapillary Image Key` yo
 ![image](https://user-images.githubusercontent.com/550895/30526225-fa8b0bf0-9be4-11e7-8bc6-f0fead168bc5.png)
 
 
-# How to Query your OSM edits
+## How to Query your OSM edits
 
 With [Overpass Turbo](http://overpass-turbo.eu/), you can query your own OSM edits based on your OSM username.
 
-## Steps
+### Steps
 
 - Go to http://overpass-turbo.eu
 - Zoom into Carleton University
@@ -211,8 +216,4 @@ If you've added a bench in OpenStreetMap & Mapillary, explain which OSM tag you'
 
 # FAQ
 
-### Q. Finding the Keys on a mobile device - Android smart phone
-
-**Answer:** You cannot find the Mapillary Image keys on an Android smart phone, you will need to access the Mapillary Website for that.
-
-[**Copy an Image Keys**](https://github.com/TraceyLauriault/COMS2200A#copying-image-keys) for more info on how to do that.
+Reference the [GitHub Issue](https://github.com/TraceyLauriault/COMS2200A/issues) section for FAQ
